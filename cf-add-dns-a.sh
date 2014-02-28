@@ -4,7 +4,7 @@
 #cf-add-dns-a.sh - add a single A record to DNS
 #Replace UPPER_CASE bits with appropriate values
 #(except for A - that's the record type)
-# See CF's fantastics API docs here:
+# See CF's fantastic API docs here:
 # https://www.cloudflare.com/docs/client-api.html
 #
 # Usage:
